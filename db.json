@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy 15F",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "980",
+      "description": "Smartphone",
+      "createdAt": "2023-03-07",
+      "id": "1"
+    },
+    {
+      "name": "Nokia X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "211",
+      "description": "Red color",
+      "createdAt": "2023-03-07",
+      "id": "2"
+    },
+    {
+      "name": "Dell Latitude L12",
+      "brand": "Dell",
+      "category": "Computers",
+      "price": "900",
+      "description": "Professional computer",
+      "createdAt": "2023-03-09",
+      "id": "3"
+    },
+    {
+      "id": "32a2",
+      "name": "Iphone 15",
+      "brand": "apple",
+      "category": "Phones",
+      "price": "1000",
+      "description": "this is new",
+      "createdAt": "2024-02-24"
+    }
+  ]
+}
